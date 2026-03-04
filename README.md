@@ -1,5 +1,4 @@
 <p align="center">
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Toushif%20Muktashid%20Hasan&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
@@ -13,12 +12,16 @@
 I build intelligent, real-time applications that solve meaningful problems. I’m a fan of clean UX, AI logic, and coffee.
 
 - 🚀 **Now Building:** [Fashion E-commerce Platform](https://fashion-ecommerce-frontend-t5zl.onrender.com/)
-- ⚙️ **Process:** `git commit -m "fixed it"` (narrator: it was not fixed).
+- ⚙️ **Process:** `git commit -m "fixed it"` (usually it's actually fixed).
 - 💬 **Expertise:** React, TypeScript, Python, and AI integration.
 - 📄 **Status:** Fresh Graduate | Open to new opportunities! [Email Me](mailto:thasan202081@bscse.uiu.ac.bd)
 
 ---
 
+### 🕹️ The Real "In the Zone" (Debugging)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
   <br>
   <i>"Current status: Debugging my soul while the code laughs at me."</i>
 </p>
@@ -32,29 +35,16 @@ I build intelligent, real-time applications that solve meaningful problems. I’
 
 ---
 
-### 📊 System Analytics & Vitals
+### 📊 System Analytics & Activity
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=toushif468&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=toushif468&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toushif468&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toushif468&layout=compact&theme=tokyonight" height="165" />
-</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=toushif468&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
----
 
-### 🕹️ Pacman Contribution World
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toushif468/toushif468/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toushif468/toushif468/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toushif468/toushif468/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -77,3 +67,7 @@ I build intelligent, real-time applications that solve meaningful problems. I’
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
 </p>
+<br><br>
+<img src="https://raw.githubusercontent.com/toushif468/toushif468/output/snake.svg" alt="Snake animation" />
+
+###
