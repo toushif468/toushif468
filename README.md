@@ -39,37 +39,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=toushif468&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=toushif468&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
-</div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toushif468/toushif468/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toushif468/toushif468/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/toushif468/toushif468/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toushif468&show_icons=true&theme=tokyonight" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toushif468&layout=compact&theme=tokyonight" height="165" alt="languages" />
-</div>
-
-###
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=toushif468&theme=tokyonight&area=true&hide_border=true" width="100%" alt="activity graph" />
 </p>
 
-###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/toushif468/toushif468/output/snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
