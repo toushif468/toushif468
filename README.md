@@ -19,13 +19,6 @@ I build intelligent, real-time applications that solve meaningful problems. I’
 
 ---
 
-### 📈 Activity Graph (The "Alive" Part)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toushif468&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 🛠 Tech Power-Ups
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,py,nodejs,mongodb,tailwind,firebase,docker,aws,figma&theme=dark" />
@@ -33,10 +26,28 @@ I build intelligent, real-time applications that solve meaningful problems. I’
 
 ---
 
-### 📊 System Stats
+### 👨‍💻 In the Zone
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toushif468&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="toushif468" />
-  <img src="https://github-readme-stats.vercel.app/api?username=toushif468&show_icons=true&locale=en&theme=tokyonight" alt="toushif468" />
+  <img src="https://media.giphy.com/media/26DN6uBOGJq1P9YGY/giphy.gif" alt="Coding Boy" />
+</p>
+
+---
+
+### 📊 System Stats & GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toushif468&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=toushif468&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toushif468&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/a-w-e-s-o-m-e-s-n-a-k-e/snake/blob/main/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -50,5 +61,5 @@ I build intelligent, real-time applications that solve meaningful problems. I’
 </p>
 
 <p align="right"> 
-  <b>Keep Coding!</b> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26DN6uBOGJq1P9YGY/giphy.gif" width="30px">
+  <b>Keep Coding!</b> <img src="https://media.giphy.com/media/26DN6uBOGJq1P9YGY/giphy.gif" width="30px" alt="Pixelated Icon">
 </p>
