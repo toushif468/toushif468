@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Toushif%20Muktashid%20Hasan&fontSize=35&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=Toushif%20Muktashid%20Hasan&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -18,9 +19,6 @@ I build intelligent, real-time applications that solve meaningful problems. I’
 
 ---
 
-### 🕹️ The Real "In the Zone" (Debugging)
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZiZ2dtbmF5Z25idWxhYXB3Y3I5dWtqY3E4NXB6NndrdTNrOGY3eSZlcD12MV9pbnRlcm5hbV9naWZfYnlfaWQmY3Q9Zw/L1R1QHUR4YpukajyGA/giphy.gif" width="450" alt="Chibi Coder Debugging" />
   <br>
   <i>"Current status: Debugging my soul while the code laughs at me."</i>
 </p>
