@@ -41,9 +41,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toushif468&theme=tokyonight&area=true&hide_border=true" width="100%" alt="activity graph" />
-</p>
+
 
 
 
